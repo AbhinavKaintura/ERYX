@@ -11,6 +11,11 @@ export default {
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",
+        'green-900': "var(--green-900)",
+      },
+      fontFamily: {
+        sans: ['var(--font-inter)'],
+        'sans-display': ['var(--font-space-grotesk)'],
       },
     },
   },
