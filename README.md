@@ -10,7 +10,7 @@ At Eryx Media, we believe in transforming ideas into impactful realities. As a m
  **Clone the repository**:
    ```bash
    git clone https://github.com/AbhinavKaintura/ERYX.git
-   cd vishwabandhu
+   cd ERYX
 ```
 
 
