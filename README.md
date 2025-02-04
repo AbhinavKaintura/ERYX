@@ -26,3 +26,5 @@ npm run dev
 
 The app is running on [http://localhost:3000](http://localhost:3000)
 
+The project is under development...
+
